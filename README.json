@@ -5,16 +5,50 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ArduPilot Mission Planner",
+          "description": "Mission planner software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-11T08:24:09Z",
+            "owner": "ArduPilot",
+            "repo": "MissionPlanner",
+            "stars": 2350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FPVTune",
+          "description": "Betaflight blackbox log analysis and PID tuning guidance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-16T08:51:39Z",
+            "owner": "chugzb",
+            "repo": "betaflight-pid-autotuning",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Software and Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
           "title": "Ardupilot",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T00:05:15Z",
+            "last_commit": "2026-08-17T18:03:29Z",
             "owner": "ArduPilot",
             "repo": "ardupilot",
-            "stars": 15699
+            "stars": 15700
           }
         },
         {
@@ -25,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T12:25:47Z",
+            "last_commit": "2026-08-17T19:10:20Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12434
+            "stars": 12440
           }
         },
         {
@@ -39,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T20:25:07Z",
+            "last_commit": "2026-08-17T20:25:07Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11416
+            "stars": 11422
           }
         },
         {
@@ -53,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-05T21:47:55Z",
+            "last_commit": "2026-08-17T09:26:12Z",
             "owner": "iNavFlight",
             "repo": "inav",
             "stars": 4183
@@ -84,7 +118,7 @@
             "last_commit": "2026-08-13T01:00:32Z",
             "owner": "nasa-jpl",
             "repo": "osr-rover-code",
-            "stars": 533
+            "stars": 532
           }
         },
         {
@@ -109,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T21:02:47Z",
+            "last_commit": "2026-08-17T20:50:56Z",
             "owner": "emuflight",
             "repo": "EmuFlight",
             "stars": 504
@@ -216,7 +250,7 @@
             "last_commit": "2026-08-13T07:57:40Z",
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2395
+            "stars": 2396
           }
         },
         {
@@ -230,7 +264,7 @@
             "last_commit": "2026-08-14T06:46:18Z",
             "owner": "mavlink",
             "repo": "mavros",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -275,10 +309,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T17:12:34Z",
+            "last_commit": "2026-08-17T20:04:53Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4850
+            "stars": 4852
           }
         },
         {
@@ -308,6 +342,20 @@
             "repo": "arduleader",
             "stars": 142
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Argus",
+          "description": "Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T03:44:43Z",
+            "owner": "L-X-Yao",
+            "repo": "argus",
+            "stars": 0
+          }
         }
       ],
       "title": "Ground Control Stations"
@@ -331,7 +379,7 @@
             "last_commit": "2025-09-17T04:37:09Z",
             "owner": "tbs-trappy",
             "repo": "source_one",
-            "stars": 629
+            "stars": 630
           }
         },
         {
@@ -468,9 +516,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:08:04.424Z",
+    "last_updated": "2026-08-17T21:13:51.664Z",
     "original_repository": "janesmae/awesome-drones",
-    "original_repository_sha": "76708bc7bb59270337e39be24f172d70dbc5e7d9",
+    "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
     "enhanced_repository": "enhansome/enhansome-drones",
     "enhanced_repository_description": null,
     "title": "Awesome Drones with stars"
