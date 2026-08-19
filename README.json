@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8018179,
             "language": "C#",
-            "last_commit": "2026-07-11T08:24:09Z",
+            "last_commit": "2026-08-19T07:53:56Z",
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
             "stars": 2350
@@ -24,459 +25,473 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159034184,
             "language": null,
             "last_commit": "2026-02-16T08:51:39Z",
             "owner": "chugzb",
             "repo": "betaflight-pid-autotuning",
             "stars": 6
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ardupilot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7512484,
+                "language": "C++",
+                "last_commit": "2026-08-19T08:50:43Z",
+                "owner": "ArduPilot",
+                "repo": "ardupilot",
+                "stars": 15709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PX4 Autopilot",
+              "description": "Rebranded to AutoPilot from Firmware",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5298790,
+                "language": "C++",
+                "last_commit": "2026-08-19T12:07:52Z",
+                "owner": "PX4",
+                "repo": "PX4-Autopilot",
+                "stars": 12449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Betaflight",
+              "description": "Fork of Cleanflight.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37060852,
+                "language": "C",
+                "last_commit": "2026-08-17T20:25:07Z",
+                "owner": "betaflight",
+                "repo": "betaflight",
+                "stars": 11435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "INAV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32148604,
+                "language": "C",
+                "last_commit": "2026-08-18T03:21:00Z",
+                "owner": "iNavFlight",
+                "repo": "inav",
+                "stars": 4186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cleanflight",
+              "description": ":ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9066347,
+                "language": "C",
+                "last_commit": "2023-10-20T18:37:55Z",
+                "owner": "cleanflight",
+                "repo": "cleanflight",
+                "stars": 2732
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open Source Rover Control Code",
+              "description": "Nasa JPL command firmware for the OSR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139206609,
+                "language": "Python",
+                "last_commit": "2026-08-13T01:00:32Z",
+                "owner": "nasa-jpl",
+                "repo": "osr-rover-code",
+                "stars": 532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BaseFlight",
+              "description": ":ghost:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5689182,
+                "language": "C",
+                "last_commit": "2016-01-18T22:04:53Z",
+                "owner": "multiwii",
+                "repo": "baseflight",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EmuFlight",
+              "description": "FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197006581,
+                "language": "C",
+                "last_commit": "2026-08-18T21:02:37Z",
+                "owner": "emuflight",
+                "repo": "EmuFlight",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "madflight",
+              "description": "Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427408681,
+                "language": "C",
+                "last_commit": "2026-08-19T12:13:50Z",
+                "owner": "qqqlab",
+                "repo": "madflight",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibrePilot",
+              "description": ":ghost: (GitHub fork is Outdated/Inactive)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38709395,
+                "language": "C",
+                "last_commit": "2023-12-14T14:03:07Z",
+                "owner": "librepilot",
+                "repo": "LibrePilot",
+                "stars": 357
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SilverWare(NFE)",
+              "description": ":ghost: Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119231667,
+                "language": "C",
+                "last_commit": "2021-08-12T13:33:22Z",
+                "owner": "NotFastEnuf",
+                "repo": "NFE_Silverware",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ButterFlight",
+              "description": ":ghost: Fork of Betaflight. Firmware focusing on Mini Quads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122686771,
+                "language": "C",
+                "last_commit": "2019-08-08T22:23:24Z",
+                "owner": "ButterFlight",
+                "repo": "butterflight",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SilverWare",
+              "description": ":ghost: Firmware for BoldClash BWHOOP B-03 mini drone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87397688,
+                "language": "C",
+                "last_commit": "2020-03-03T05:00:04Z",
+                "owner": "silver13",
+                "repo": "BoldClash-BWHOOP-B-03",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware for Flight Controllers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoBot",
+              "description": "Golang framework for robotics, drones, and the Internet of Things (IoT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12996196,
+                "language": "Go",
+                "last_commit": "2026-01-07T16:21:45Z",
+                "owner": "hybridgroup",
+                "repo": "gobot",
+                "stars": 9450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAVLink",
+              "description": "Micro Air Vehicle Message Marshalling Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2195723,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:36:47Z",
+                "owner": "mavlink",
+                "repo": "mavlink",
+                "stars": 2399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAVROS",
+              "description": "MAVLink to ROS gateway with a proxy for Ground Control Station.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15189073,
+                "language": "C++",
+                "last_commit": "2026-08-14T06:46:18Z",
+                "owner": "mavlink",
+                "repo": "mavros",
+                "stars": 1211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DJI Onboard SDK",
+              "description": "The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37010701,
+                "language": "C++",
+                "last_commit": "2024-02-28T22:59:18Z",
+                "owner": "dji-sdk",
+                "repo": "Onboard-SDK",
+                "stars": 988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libcyphal",
+              "description": "Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16183388,
+                "language": "C++",
+                "last_commit": "2025-12-17T00:07:17Z",
+                "owner": "OpenCyphal-Garage",
+                "repo": "libcyphal",
+                "stars": 327
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "QGroundControl",
+              "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2567844,
+                "language": "C++",
+                "last_commit": "2026-08-18T21:12:12Z",
+                "owner": "mavlink",
+                "repo": "qgroundcontrol",
+                "stars": 4856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tower",
+              "description": ":ghost: Ground Control Station for Android Devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8290123,
+                "language": "Java",
+                "last_commit": "2022-02-19T14:27:39Z",
+                "owner": "DroidPlanner",
+                "repo": "Tower",
+                "stars": 634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arduleader",
+              "description": ":ghost: An android ground controller (and other things) for Mavlink/Arduplane.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7323571,
+                "language": "Scala",
+                "last_commit": "2018-03-02T17:35:37Z",
+                "owner": "geeksville",
+                "repo": "arduleader",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Argus",
+              "description": "Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1245578545,
+                "language": "Python",
+                "last_commit": "2026-08-01T03:44:43Z",
+                "owner": "L-X-Yao",
+                "repo": "argus",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ground Control Stations"
         }
       ],
       "title": "Software and Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Ardupilot",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source One by TBS",
+              "description": "Open Source freestyle FPV drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134260017,
+                "language": null,
+                "last_commit": "2025-09-17T04:37:09Z",
+                "owner": "tbs-trappy",
+                "repo": "source_one",
+                "stars": 630
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source Two by TBS",
+              "description": "Open Source racing FPV drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153084010,
+                "language": null,
+                "last_commit": "2021-12-19T16:27:15Z",
+                "owner": "ps915",
+                "repo": "source_two",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source X by TBS",
+              "description": "Open Source giant racing drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181989761,
+                "language": null,
+                "last_commit": "2019-06-10T19:05:15Z",
+                "owner": "ps915",
+                "repo": "source_x",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source PodRacer",
+              "description": "Open source ultra-light drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276579942,
+                "language": null,
+                "last_commit": "2020-07-18T11:14:03Z",
+                "owner": "ps915",
+                "repo": "source_podracer",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source Micro by TBS",
+              "description": "Open Source mini drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181988246,
+                "language": null,
+                "last_commit": "2020-01-07T07:17:10Z",
+                "owner": "ps915",
+                "repo": "source_micro",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source V by TBS",
+              "description": "Open Source ultra-stiff drone frame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255855886,
+                "language": null,
+                "last_commit": "2021-03-19T12:05:05Z",
+                "owner": "ps915",
+                "repo": "source_v",
+                "stars": 21
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T01:50:04Z",
-            "owner": "ArduPilot",
-            "repo": "ardupilot",
-            "stars": 15707
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PX4 Autopilot",
-          "description": "Rebranded to AutoPilot from Firmware",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T20:49:22Z",
-            "owner": "PX4",
-            "repo": "PX4-Autopilot",
-            "stars": 12446
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Betaflight",
-          "description": "Fork of Cleanflight.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T20:25:07Z",
-            "owner": "betaflight",
-            "repo": "betaflight",
-            "stars": 11430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "INAV",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T03:21:00Z",
-            "owner": "iNavFlight",
-            "repo": "inav",
-            "stars": 4184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cleanflight",
-          "description": ":ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-10-20T18:37:55Z",
-            "owner": "cleanflight",
-            "repo": "cleanflight",
-            "stars": 2732
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Source Rover Control Code",
-          "description": "Nasa JPL command firmware for the OSR.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T01:00:32Z",
-            "owner": "nasa-jpl",
-            "repo": "osr-rover-code",
-            "stars": 532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BaseFlight",
-          "description": ":ghost:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-01-18T22:04:53Z",
-            "owner": "multiwii",
-            "repo": "baseflight",
-            "stars": 525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EmuFlight",
-          "description": "FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T21:02:37Z",
-            "owner": "emuflight",
-            "repo": "EmuFlight",
-            "stars": 504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "madflight",
-          "description": "Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T14:38:21Z",
-            "owner": "qqqlab",
-            "repo": "madflight",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LibrePilot",
-          "description": ":ghost: (GitHub fork is Outdated/Inactive)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-14T14:03:07Z",
-            "owner": "librepilot",
-            "repo": "LibrePilot",
-            "stars": 357
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SilverWare(NFE)",
-          "description": ":ghost: Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-08-12T13:33:22Z",
-            "owner": "NotFastEnuf",
-            "repo": "NFE_Silverware",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ButterFlight",
-          "description": ":ghost: Fork of Betaflight. Firmware focusing on Mini Quads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-08-08T22:23:24Z",
-            "owner": "ButterFlight",
-            "repo": "butterflight",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SilverWare",
-          "description": ":ghost: Firmware for BoldClash BWHOOP B-03 mini drone",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-03-03T05:00:04Z",
-            "owner": "silver13",
-            "repo": "BoldClash-BWHOOP-B-03",
-            "stars": 70
-          }
+          "node_type": "group",
+          "title": "Drone Frames"
         }
       ],
-      "title": "Firmware for Flight Controllers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoBot",
-          "description": "Golang framework for robotics, drones, and the Internet of Things (IoT).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-07T16:21:45Z",
-            "owner": "hybridgroup",
-            "repo": "gobot",
-            "stars": 9450
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAVLink",
-          "description": "Micro Air Vehicle Message Marshalling Library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:41:07Z",
-            "owner": "mavlink",
-            "repo": "mavlink",
-            "stars": 2399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAVROS",
-          "description": "MAVLink to ROS gateway with a proxy for Ground Control Station.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-14T06:46:18Z",
-            "owner": "mavlink",
-            "repo": "mavros",
-            "stars": 1211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DJI Onboard SDK",
-          "description": "The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-28T22:59:18Z",
-            "owner": "dji-sdk",
-            "repo": "Onboard-SDK",
-            "stars": 988
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Libcyphal",
-          "description": "Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-17T00:07:17Z",
-            "owner": "OpenCyphal-Garage",
-            "repo": "libcyphal",
-            "stars": 327
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "QGroundControl",
-          "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T20:46:01Z",
-            "owner": "mavlink",
-            "repo": "qgroundcontrol",
-            "stars": 4853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tower",
-          "description": ":ghost: Ground Control Station for Android Devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-02-19T14:27:39Z",
-            "owner": "DroidPlanner",
-            "repo": "Tower",
-            "stars": 634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arduleader",
-          "description": ":ghost: An android ground controller (and other things) for Mavlink/Arduplane.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2018-03-02T17:35:37Z",
-            "owner": "geeksville",
-            "repo": "arduleader",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Argus",
-          "description": "Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T03:44:43Z",
-            "owner": "L-X-Yao",
-            "repo": "argus",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Ground Control Stations"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Hardware and Components"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Source One by TBS",
-          "description": "Open Source freestyle FPV drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-17T04:37:09Z",
-            "owner": "tbs-trappy",
-            "repo": "source_one",
-            "stars": 630
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source Two by TBS",
-          "description": "Open Source racing FPV drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-19T16:27:15Z",
-            "owner": "ps915",
-            "repo": "source_two",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source X by TBS",
-          "description": "Open Source giant racing drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-06-10T19:05:15Z",
-            "owner": "ps915",
-            "repo": "source_x",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source PodRacer",
-          "description": "Open source ultra-light drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-07-18T11:14:03Z",
-            "owner": "ps915",
-            "repo": "source_podracer",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source Micro by TBS",
-          "description": "Open Source mini drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-01-07T07:17:10Z",
-            "owner": "ps915",
-            "repo": "source_micro",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Source V by TBS",
-          "description": "Open Source ultra-stiff drone frame.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-19T12:05:05Z",
-            "owner": "ps915",
-            "repo": "source_v",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Drone Frames"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Video Receivers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Products and Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unmanned Aerial Vehicles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unmanned Ground Vehicles"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -485,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219441774,
             "language": "Python",
             "last_commit": "2026-08-10T04:53:19Z",
             "owner": "layumi",
@@ -499,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219441774,
             "language": "Python",
             "last_commit": "2026-08-10T04:53:19Z",
             "owner": "layumi",
@@ -508,16 +525,12 @@
         }
       ],
       "title": "Visual Localization"
-    },
-    {
-      "description": "To the extent possible under law, Jaan Janesmae has waived all copyright and related or neighbouring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:11:15.605Z",
+    "last_updated": "2026-08-19T12:24:20.106Z",
     "original_repository": "janesmae/awesome-drones",
+    "original_repository_id": 120960785,
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
     "enhanced_repository": "enhansome/enhansome-drones",
     "enhanced_repository_description": null,
