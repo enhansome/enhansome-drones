@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T07:53:56Z",
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2351
+            "stars": 2353
           }
         },
         {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 7512484,
                 "language": "C++",
-                "last_commit": "2026-08-20T22:35:59Z",
+                "last_commit": "2026-08-22T20:38:03Z",
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15721
+                "stars": 15724
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 5298790,
                 "language": "C++",
-                "last_commit": "2026-08-21T20:43:23Z",
+                "last_commit": "2026-08-22T18:54:36Z",
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12460
+                "stars": 12466
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-21T21:08:18Z",
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11440
+                "stars": 11443
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 32148604,
                 "language": "C",
-                "last_commit": "2026-08-21T04:35:56Z",
+                "last_commit": "2026-08-22T17:48:23Z",
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4187
+                "stars": 4189
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2026-01-07T16:21:45Z",
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9450
+                "stars": 9451
               }
             },
             {
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 2195723,
                 "language": "Python",
-                "last_commit": "2026-08-20T06:42:29Z",
+                "last_commit": "2026-08-22T07:20:53Z",
                 "owner": "mavlink",
                 "repo": "mavlink",
-                "stars": 2400
+                "stars": 2401
               }
             },
             {
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 15189073,
                 "language": "C++",
-                "last_commit": "2026-08-21T06:57:56Z",
+                "last_commit": "2026-08-22T11:11:40Z",
                 "owner": "mavlink",
                 "repo": "mavros",
                 "stars": 1212
@@ -328,10 +328,10 @@
                 "archived": false,
                 "id": 2567844,
                 "language": "C++",
-                "last_commit": "2026-08-21T19:57:41Z",
+                "last_commit": "2026-08-22T15:06:52Z",
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4860
+                "stars": 4861
               }
             },
             {
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:12:03.515Z",
+    "last_updated": "2026-08-22T21:09:16.616Z",
     "original_repository": "janesmae/awesome-drones",
     "original_repository_id": 120960785,
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
