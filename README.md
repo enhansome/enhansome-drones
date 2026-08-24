@@ -1,6 +1,6 @@
 # Awesome Drones with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,288 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -78,10 +78,10 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Firmware for Flight Controllers
 
-* [Ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 15,729 | 🐛 3,160 | 🌐 C++ | 📅 2026-08-23
-* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,479 | 🐛 344 | 🌐 C++ | 📅 2026-08-23 - Rebranded to AutoPilot from Firmware
-* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,446 | 🐛 373 | 🌐 C | 📅 2026-08-23 - Fork of Cleanflight.
-* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,189 | 🐛 444 | 🌐 C | 📅 2026-08-23
+* [Ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 15,734 | 🐛 3,161 | 🌐 C++ | 📅 2026-08-24
+* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,485 | 🐛 351 | 🌐 C++ | 📅 2026-08-24 - Rebranded to AutoPilot from Firmware
+* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,450 | 🐛 374 | 🌐 C | 📅 2026-08-23 - Fork of Cleanflight.
+* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,192 | 🐛 447 | 🌐 C | 📅 2026-08-24
 * [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐ 2,732 | 🐛 3 | 🌐 C | 📅 2023-10-20 - :ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) ⭐ 532 | 🐛 17 | 🌐 Python | 📅 2026-08-13 - Nasa JPL command firmware for the OSR.
 * [BaseFlight](https://github.com/multiwii/baseflight) ⭐ 525 | 🐛 23 | 🌐 C | 📅 2016-01-18 - :ghost:
@@ -97,9 +97,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Libraries
 
-* [GoBot](https://github.com/hybridgroup/gobot) ⭐ 9,451 | 🐛 99 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).
-* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,401 | 🐛 137 | 🌐 Python | 📅 2026-08-23 - Micro Air Vehicle Message Marshalling Library.
-* [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,212 | 🐛 406 | 🌐 C++ | 📅 2026-08-22 - MAVLink to ROS gateway with a proxy for Ground Control Station.
+* [GoBot](https://github.com/hybridgroup/gobot) ⭐ 9,452 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).
+* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,401 | 🐛 136 | 🌐 Python | 📅 2026-08-23 - Micro Air Vehicle Message Marshalling Library.
+* [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,212 | 🐛 406 | 🌐 C++ | 📅 2026-08-24 - MAVLink to ROS gateway with a proxy for Ground Control Station.
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) ⭐ 988 | 🐛 77 | 🌐 C++ | 📅 2024-02-28 - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) ⭐ 328 | 🐛 21 | 🌐 C++ | 📅 2025-12-17 - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
 
@@ -144,7 +144,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 * [Source One by TBS](https://github.com/tbs-trappy/source_one) ⭐ 631 | 🐛 25 | 📅 2025-09-17 - Open Source freestyle FPV drone frame.
 * [Source Two by TBS](https://github.com/ps915/source_two) ⭐ 103 | 🐛 3 | 📅 2021-12-19 - Open Source racing FPV drone frame.
-* [Source X by TBS](https://github.com/ps915/source_x) ⭐ 47 | 🐛 1 | 📅 2019-06-10 - Open Source giant racing drone frame.
+* [Source X by TBS](https://github.com/ps915/source_x) ⭐ 48 | 🐛 1 | 📅 2019-06-10 - Open Source giant racing drone frame.
 * [Source PodRacer](https://github.com/ps915/source_podracer) ⭐ 40 | 🐛 1 | 📅 2020-07-18 - Open source ultra-light drone frame.
 * [Source Micro by TBS](https://github.com/ps915/source_micro) ⭐ 38 | 🐛 1 | 📅 2020-01-07 - Open Source mini drone frame.
 * [Source V by TBS](https://github.com/ps915/source_v) ⭐ 21 | 🐛 1 | 📅 2021-03-19 - Open Source ultra-stiff drone frame.
@@ -240,7 +240,7 @@ List:
 
 #### Autonomous Ground Vehicles
 
-* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,599 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 - Nasa JPL scaled down version of the curiosity rover, made of COTS.
+* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,601 | 🐛 16 | 🌐 Prolog | 📅 2026-08-13 - Nasa JPL scaled down version of the curiosity rover, made of COTS.
 * [Turtlebot](https://www.turtlebot.com) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform.
 
 ### Unmanned Underwater Vehicles
@@ -263,4 +263,4 @@ To the extent possible under law, [Jaan Janesmae](https://jaan.janesmae.com) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
