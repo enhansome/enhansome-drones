@@ -88,10 +88,10 @@
                 "archived": false,
                 "id": 7512484,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:00:43Z",
+                "last_commit": "2026-08-25T02:58:58Z",
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15735
+                "stars": 15736
               }
             },
             {
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 5298790,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:26:53Z",
+                "last_commit": "2026-08-25T01:10:42Z",
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12485
+                "stars": 12486
               }
             },
             {
@@ -133,7 +133,7 @@
                 "archived": false,
                 "id": 32148604,
                 "language": "C",
-                "last_commit": "2026-08-24T04:55:12Z",
+                "last_commit": "2026-08-25T00:35:25Z",
                 "owner": "iNavFlight",
                 "repo": "inav",
                 "stars": 4192
@@ -394,10 +394,10 @@
                 "archived": false,
                 "id": 2567844,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:50:27Z",
+                "last_commit": "2026-08-25T02:56:46Z",
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4863
+                "stars": 4865
               }
             },
             {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:16:31.504Z",
+    "last_updated": "2026-08-25T06:12:34.562Z",
     "original_repository": "janesmae/awesome-drones",
     "original_repository_id": 120960785,
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
