@@ -15,8 +15,9 @@
             "last_commit": "2026-08-19T07:53:56Z",
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2356
-          }
+            "stars": 2358
+          },
+          "first_seen": "2026-08-28T04:59:02.825Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "chugzb",
             "repo": "betaflight-pid-autotuning",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T04:59:02.825Z"
         },
         {
           "children": [
@@ -47,8 +49,9 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18425
-              }
+                "stars": 18426
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "tbs-fpv",
                 "repo": "freedomtx",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -88,11 +92,12 @@
                 "archived": false,
                 "id": 7512484,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:50:02Z",
+                "last_commit": "2026-08-27T21:44:07Z",
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15752
-              }
+                "stars": 15759
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -103,11 +108,12 @@
                 "archived": false,
                 "id": 5298790,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:31:08Z",
+                "last_commit": "2026-08-28T00:52:53Z",
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12504
-              }
+                "stars": 12505
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -118,11 +124,12 @@
                 "archived": false,
                 "id": 37060852,
                 "language": "C",
-                "last_commit": "2026-08-26T20:25:08Z",
+                "last_commit": "2026-08-27T22:36:12Z",
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11468
-              }
+                "stars": 11472
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -133,11 +140,12 @@
                 "archived": false,
                 "id": 32148604,
                 "language": "C",
-                "last_commit": "2026-08-27T00:39:19Z",
+                "last_commit": "2026-08-27T19:49:36Z",
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4201
-              }
+                "stars": 4203
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "cleanflight",
                 "repo": "cleanflight",
                 "stars": 2732
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
                 "stars": 533
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "multiwii",
                 "repo": "baseflight",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "emuflight",
                 "repo": "EmuFlight",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "qqqlab",
                 "repo": "madflight",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "librepilot",
                 "repo": "LibrePilot",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "NotFastEnuf",
                 "repo": "NFE_Silverware",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "ButterFlight",
                 "repo": "butterflight",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "silver13",
                 "repo": "BoldClash-BWHOOP-B-03",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -294,7 +311,8 @@
                 "owner": "hybridgroup",
                 "repo": "gobot",
                 "stars": 9454
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -308,8 +326,9 @@
                 "last_commit": "2026-08-27T09:38:54Z",
                 "owner": "mavlink",
                 "repo": "mavlink",
-                "stars": 2407
-              }
+                "stars": 2406
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -320,11 +339,12 @@
                 "archived": false,
                 "id": 15189073,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:00:03Z",
+                "last_commit": "2026-08-28T03:44:51Z",
                 "owner": "mavlink",
                 "repo": "mavros",
                 "stars": 1217
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -338,8 +358,9 @@
                 "last_commit": "2024-02-28T22:59:18Z",
                 "owner": "dji-sdk",
                 "repo": "Onboard-SDK",
-                "stars": 988
-              }
+                "stars": 989
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "OpenCyphal-Garage",
                 "repo": "libcyphal",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -376,7 +398,8 @@
                 "owner": "raylanlin",
                 "repo": "smarttune-cli",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -394,11 +417,12 @@
                 "archived": false,
                 "id": 2567844,
                 "language": "C++",
-                "last_commit": "2026-08-27T01:05:26Z",
+                "last_commit": "2026-08-27T20:44:51Z",
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4873
-              }
+                "stars": 4875
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "DroidPlanner",
                 "repo": "Tower",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "geeksville",
                 "repo": "arduleader",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "L-X-Yao",
                 "repo": "argus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -471,7 +498,8 @@
                 "owner": "tbs-trappy",
                 "repo": "source_one",
                 "stars": 632
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -486,7 +514,8 @@
                 "owner": "ps915",
                 "repo": "source_two",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "ps915",
                 "repo": "source_x",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "ps915",
                 "repo": "source_podracer",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "ps915",
                 "repo": "source_micro",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             },
             {
               "node_type": "item",
@@ -546,7 +578,8 @@
                 "owner": "ps915",
                 "repo": "source_v",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:59:02.825Z"
             }
           ],
           "description": null,
@@ -572,7 +605,8 @@
             "owner": "layumi",
             "repo": "University1652-Baseline",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-28T04:59:02.825Z"
         },
         {
           "node_type": "item",
@@ -587,14 +621,15 @@
             "owner": "layumi",
             "repo": "University1652-Baseline",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-28T04:59:02.825Z"
         }
       ],
       "title": "Visual Localization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:43.608Z",
+    "last_updated": "2026-08-28T04:59:02.825Z",
     "original_repository_info": {
       "archived": false,
       "id": 120960785,
@@ -602,7 +637,7 @@
       "last_commit": "2026-08-17T06:44:02Z",
       "owner": "janesmae",
       "repo": "awesome-drones",
-      "stars": 636
+      "stars": 635
     },
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
     "enhanced_repository": "enhansome/enhansome-drones",
