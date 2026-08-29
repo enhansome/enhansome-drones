@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T07:53:56Z",
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2358
+            "stars": 2359
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         },
@@ -49,7 +49,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18426
+                "stars": 18427
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -92,10 +92,10 @@
                 "archived": false,
                 "id": 7512484,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:44:07Z",
+                "last_commit": "2026-08-28T07:21:30Z",
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15759
+                "stars": 15762
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -108,10 +108,10 @@
                 "archived": false,
                 "id": 5298790,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:52:53Z",
+                "last_commit": "2026-08-29T02:48:26Z",
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12505
+                "stars": 12510
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -124,10 +124,10 @@
                 "archived": false,
                 "id": 37060852,
                 "language": "C",
-                "last_commit": "2026-08-27T22:36:12Z",
+                "last_commit": "2026-08-29T01:58:17Z",
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11472
+                "stars": 11474
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -140,10 +140,10 @@
                 "archived": false,
                 "id": 32148604,
                 "language": "C",
-                "last_commit": "2026-08-27T19:49:36Z",
+                "last_commit": "2026-08-29T02:43:08Z",
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4203
+                "stars": 4205
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -175,7 +175,7 @@
                 "last_commit": "2026-08-13T01:00:32Z",
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 533
+                "stars": 534
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -204,7 +204,7 @@
                 "archived": false,
                 "id": 197006581,
                 "language": "C",
-                "last_commit": "2026-08-25T21:11:48Z",
+                "last_commit": "2026-08-28T17:59:12Z",
                 "owner": "emuflight",
                 "repo": "EmuFlight",
                 "stars": 504
@@ -310,7 +310,7 @@
                 "last_commit": "2026-01-07T16:21:45Z",
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9454
+                "stars": 9455
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -417,10 +417,10 @@
                 "archived": false,
                 "id": 2567844,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:44:51Z",
+                "last_commit": "2026-08-28T23:44:39Z",
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4875
+                "stars": 4876
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -604,7 +604,7 @@
             "last_commit": "2026-08-10T04:53:19Z",
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 673
+            "stars": 672
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         },
@@ -620,7 +620,7 @@
             "last_commit": "2026-08-10T04:53:19Z",
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 673
+            "stars": 672
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         }
@@ -629,7 +629,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:59:02.825Z",
+    "last_updated": "2026-08-29T02:55:45.420Z",
     "original_repository_info": {
       "archived": false,
       "id": 120960785,
@@ -637,7 +637,7 @@
       "last_commit": "2026-08-17T06:44:02Z",
       "owner": "janesmae",
       "repo": "awesome-drones",
-      "stars": 635
+      "stars": 636
     },
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
     "enhanced_repository": "enhansome/enhansome-drones",
