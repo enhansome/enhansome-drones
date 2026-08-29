@@ -1,6 +1,6 @@
 # Awesome Drones with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -79,9 +79,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Firmware for Flight Controllers
 
 * [Ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 15,762 | 🐛 3,161 | 🌐 C++ | 📅 2026-08-28
-* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,510 | 🐛 327 | 🌐 C++ | 📅 2026-08-29 - Rebranded to AutoPilot from Firmware
-* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,474 | 🐛 371 | 🌐 C | 📅 2026-08-29 - Fork of Cleanflight.
-* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,205 | 🐛 436 | 🌐 C | 📅 2026-08-29
+* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,510 | 🐛 320 | 🌐 C++ | 📅 2026-08-29 - Rebranded to AutoPilot from Firmware
+* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,475 | 🐛 371 | 🌐 C | 📅 2026-08-29 - Fork of Cleanflight.
+* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,205 | 🐛 427 | 🌐 C | 📅 2026-08-29
 * [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐ 2,732 | 🐛 3 | 🌐 C | 📅 2023-10-20 - :ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) ⭐ 534 | 🐛 17 | 🌐 Python | 📅 2026-08-13 - Nasa JPL command firmware for the OSR.
 * [BaseFlight](https://github.com/multiwii/baseflight) ⭐ 525 | 🐛 23 | 🌐 C | 📅 2016-01-18 - :ghost:
@@ -98,7 +98,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Libraries
 
 * [GoBot](https://github.com/hybridgroup/gobot) ⭐ 9,455 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).
-* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,406 | 🐛 117 | 🌐 Python | 📅 2026-08-27 - Micro Air Vehicle Message Marshalling Library.
+* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,406 | 🐛 118 | 🌐 Python | 📅 2026-08-27 - Micro Air Vehicle Message Marshalling Library.
 * [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,217 | 🐛 411 | 🌐 C++ | 📅 2026-08-28 - MAVLink to ROS gateway with a proxy for Ground Control Station.
 * [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) ⭐ 989 | 🐛 77 | 🌐 C++ | 📅 2024-02-28 - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) ⭐ 328 | 🐛 21 | 🌐 C++ | 📅 2025-12-17 - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.

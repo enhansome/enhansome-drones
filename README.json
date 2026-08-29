@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mission Planner Ground Control Station for ArduPilot (c# .net)",
+            "homepage": "http://ardupilot.org/planner/",
             "id": 8018179,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T07:53:56Z",
+            "open_issues": 1365,
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2359
+            "stars": 2359,
+            "topics": [
+              "ardupilot",
+              "autonomous",
+              "autopilot",
+              "c-sharp",
+              "control",
+              "cube",
+              "gcs",
+              "ground",
+              "mission",
+              "missionplanner",
+              "open-source",
+              "pixhawk",
+              "planner",
+              "ros",
+              "station",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         },
@@ -26,12 +48,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic Betaflight PID tuning from blackbox logs. Upload, analyze, fly. Open-source FPV drone tuning tool.",
+            "homepage": "https://fpvtune.com",
             "id": 1159034184,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-16T08:51:39Z",
+            "open_issues": 1,
             "owner": "chugzb",
             "repo": "betaflight-pid-autotuning",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "autotune",
+              "betaflight",
+              "blackbox",
+              "blackbox-log",
+              "drone",
+              "flight-controller",
+              "fpv",
+              "fpv-racing",
+              "gyro",
+              "inav",
+              "neural-network",
+              "pid-controller",
+              "pid-tuning",
+              "quadcopter"
+            ]
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         },
@@ -44,12 +86,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+                "homepage": "https://microsoft.github.io/AirSim/",
                 "id": 81887991,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T19:34:07Z",
+                "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18427
+                "stars": 18427,
+                "topics": [
+                  "ai",
+                  "airsim",
+                  "artificial-intelligence",
+                  "autonomous-quadcoptor",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "control-systems",
+                  "cross-platform",
+                  "deep-reinforcement-learning",
+                  "deeplearning",
+                  "drones",
+                  "pixhawk",
+                  "platform-independent",
+                  "research",
+                  "self-driving-car",
+                  "simulator",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -67,12 +132,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FreedomTX custom firmware for Transmitters",
+                "homepage": null,
                 "id": 237186068,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-08T06:25:29Z",
+                "open_issues": 20,
                 "owner": "tbs-fpv",
                 "repo": "freedomtx",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -90,12 +160,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+                "homepage": "http://ardupilot.org/",
                 "id": 7512484,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T07:21:30Z",
+                "open_issues": 3161,
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15762
+                "stars": 15762,
+                "topics": [
+                  "arducopter",
+                  "ardupilot",
+                  "arduplane",
+                  "ardurover",
+                  "ardusub",
+                  "autopilot",
+                  "auv",
+                  "copter",
+                  "drone",
+                  "dronekit",
+                  "mavlink",
+                  "plane",
+                  "robotics",
+                  "ros",
+                  "rov",
+                  "rover",
+                  "sub",
+                  "uas",
+                  "uav",
+                  "ugv"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -106,12 +202,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PX4 Autopilot Software",
+                "homepage": "https://px4.io",
                 "id": 5298790,
                 "language": "C++",
-                "last_commit": "2026-08-29T02:48:26Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T04:18:07Z",
+                "open_issues": 320,
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12510
+                "stars": 12510,
+                "topics": [
+                  "autonomous",
+                  "autopilot",
+                  "avoidance",
+                  "dds",
+                  "drone",
+                  "dronecode",
+                  "drones",
+                  "fixed-wing",
+                  "mavlink",
+                  "mavros",
+                  "multicopter",
+                  "pixhawk",
+                  "px4",
+                  "qgroundcontrol",
+                  "ros",
+                  "ros2",
+                  "uas",
+                  "uav",
+                  "ugv"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -122,12 +243,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Flight Controller Firmware",
+                "homepage": null,
                 "id": 37060852,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T01:58:17Z",
+                "open_issues": 371,
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11474
+                "stars": 11475,
+                "topics": [
+                  "betaflight",
+                  "cleanflight",
+                  "flight-controller",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -138,12 +269,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "INAV: Navigation-enabled flight control software",
+                "homepage": "https://inavflight.github.io",
                 "id": 32148604,
                 "language": "C",
-                "last_commit": "2026-08-29T02:43:08Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T04:32:33Z",
+                "open_issues": 427,
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4205
+                "stars": 4205,
+                "topics": [
+                  "airplane",
+                  "autopilot",
+                  "fpv",
+                  "hacktoberfest",
+                  "inav",
+                  "quadcopter",
+                  "rc"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -154,12 +298,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean-code version of the baseflight flight controller firmware",
+                "homepage": "http://cleanflight.com",
                 "id": 9066347,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-20T18:37:55Z",
+                "open_issues": 3,
                 "owner": "cleanflight",
                 "repo": "cleanflight",
-                "stars": 2732
+                "stars": 2732,
+                "topics": [
+                  "betaflight",
+                  "cleanflight",
+                  "embedded",
+                  "flight-controller",
+                  "inav",
+                  "quadcopter"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -170,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code that runs on the Open Source Rover",
+                "homepage": null,
                 "id": 139206609,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T01:00:32Z",
+                "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 534
+                "stars": 534,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -186,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "32 bit fork of the MultiWii RC flight controller firmware",
+                "homepage": null,
                 "id": 5689182,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-01-18T22:04:53Z",
+                "open_issues": 23,
                 "owner": "multiwii",
                 "repo": "baseflight",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -202,12 +368,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EmuFlight is flight controller software (firmware) used to fly multi-rotor craft.",
+                "homepage": null,
                 "id": 197006581,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T17:59:12Z",
+                "open_issues": 44,
                 "owner": "emuflight",
                 "repo": "EmuFlight",
-                "stars": 504
+                "stars": 504,
+                "topics": [
+                  "emuflight",
+                  "emuflight-configurator",
+                  "flight-controller",
+                  "fpv",
+                  "freestyle",
+                  "hacktoberfest",
+                  "macroquad",
+                  "miniquad",
+                  "multirotor",
+                  "quadcopter",
+                  "stm32",
+                  "whoop"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -218,12 +402,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flight Controller for ESP32 / Raspberry Pico / STM32",
+                "homepage": "https://madflight.com",
                 "id": 427408681,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T16:18:30Z",
+                "open_issues": 1,
                 "owner": "qqqlab",
                 "repo": "madflight",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "airplane",
+                  "ardupilot",
+                  "autopilot",
+                  "betaflight",
+                  "drone",
+                  "drones",
+                  "esp32",
+                  "flight-controller",
+                  "fpv",
+                  "mavlink",
+                  "multicopter",
+                  "quadcopter",
+                  "rp2040",
+                  "rp2350",
+                  "stm32",
+                  "uav",
+                  "vtol"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -234,12 +441,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the GitHub mirror for the LibrePilot source code. The main development is taking place at https://bitbucket.org/librepilot",
+                "homepage": null,
                 "id": 38709395,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-14T14:03:07Z",
+                "open_issues": 18,
                 "owner": "librepilot",
                 "repo": "LibrePilot",
-                "stars": 357
+                "stars": 357,
+                "topics": [
+                  "drones",
+                  "fpv",
+                  "librepilot",
+                  "multicopter",
+                  "openpilot",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -250,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features",
+                "homepage": null,
                 "id": 119231667,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-08-12T13:33:22Z",
+                "open_issues": 10,
                 "owner": "NotFastEnuf",
                 "repo": "NFE_Silverware",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -266,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122686771,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-08-08T22:23:24Z",
+                "open_issues": 51,
                 "owner": "ButterFlight",
                 "repo": "butterflight",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -282,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "firmware for BoldClash BWHOOP B-03 quadcopter",
+                "homepage": null,
                 "id": 87397688,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-03-03T05:00:04Z",
+                "open_issues": 8,
                 "owner": "silver13",
                 "repo": "BoldClash-BWHOOP-B-03",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -305,12 +539,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+                "homepage": "https://gobot.io",
                 "id": 12996196,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-07T16:21:45Z",
+                "open_issues": 100,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9455
+                "stars": 9455,
+                "topics": [
+                  "arduino",
+                  "beaglebone",
+                  "beaglebone-black",
+                  "bluetooth",
+                  "bluetooth-le",
+                  "drone",
+                  "go",
+                  "gpio",
+                  "hardware",
+                  "i2c",
+                  "intel-edison",
+                  "intel-joule",
+                  "internet-of-things",
+                  "iot",
+                  "mqtt",
+                  "raspberry-pi",
+                  "robot",
+                  "robotics",
+                  "sphero",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -321,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marshalling / communication library for drones.",
+                "homepage": "http://mavlink.io",
                 "id": 2195723,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T09:38:54Z",
+                "open_issues": 118,
                 "owner": "mavlink",
                 "repo": "mavlink",
-                "stars": 2406
+                "stars": 2406,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -337,12 +602,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAVLink to ROS gateway with proxy for Ground Control Station",
+                "homepage": null,
                 "id": 15189073,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:44:51Z",
+                "open_issues": 411,
                 "owner": "mavlink",
                 "repo": "mavros",
-                "stars": 1217
+                "stars": 1217,
+                "topics": [
+                  "mavlink",
+                  "mavros",
+                  "mavros-msgs",
+                  "ros",
+                  "ros-node",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -353,12 +630,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DJI Onboard SDK Official Repository",
+                "homepage": "https://github.com/dji-sdk/Onboard-SDK",
                 "id": 37010701,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-28T22:59:18Z",
+                "open_issues": 77,
                 "owner": "dji-sdk",
                 "repo": "Onboard-SDK",
-                "stars": 989
+                "stars": 989,
+                "topics": [
+                  "camera",
+                  "collision-avoidance",
+                  "dji",
+                  "dji-sdk",
+                  "drone",
+                  "flight-controller",
+                  "lidar",
+                  "onboard-sdk",
+                  "robotics",
+                  "sensors",
+                  "trajectory-optimization",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -369,12 +664,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux.",
+                "homepage": "http://opencyphal.org",
                 "id": 16183388,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-12-17T00:07:17Z",
+                "open_issues": 21,
                 "owner": "OpenCyphal-Garage",
                 "repo": "libcyphal",
-                "stars": 328
+                "stars": 328,
+                "topics": [
+                  "aerospace",
+                  "can",
+                  "communication-protocol",
+                  "cpp",
+                  "cpp11",
+                  "cpp14",
+                  "cyphal",
+                  "drones",
+                  "embedded-systems",
+                  "linux",
+                  "misra",
+                  "opencyphal",
+                  "robotics",
+                  "socketcan",
+                  "space",
+                  "uav",
+                  "uavcan",
+                  "vehicle-bus"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -392,12 +711,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SmartTune CLI — Multi-platform flight log analysis & tuning advisor (ArduPilot + Betaflight + PX4)",
+                "homepage": null,
                 "id": 1227994782,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:16:24Z",
+                "open_issues": 0,
                 "owner": "raylanlin",
                 "repo": "smarttune-cli",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "ardupilot",
+                  "betaflight",
+                  "cli",
+                  "drone",
+                  "fft-analysis",
+                  "flight-controller",
+                  "log-analysis",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "pid-tuning",
+                  "px4",
+                  "python",
+                  "tuning"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -415,12 +754,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+                "homepage": "http://qgroundcontrol.io",
                 "id": 2567844,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:44:39Z",
+                "open_issues": 1000,
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4876
+                "stars": 4876,
+                "topics": [
+                  "ardupilot",
+                  "drone",
+                  "hacktoberfest",
+                  "mavlink",
+                  "pixhawk",
+                  "px4",
+                  "qt",
+                  "uas",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -431,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ground Control Station for Android Devices",
+                "homepage": "https://play.google.com/store/apps/details?id=org.droidplanner.android",
                 "id": 8290123,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-19T14:27:39Z",
+                "open_issues": 152,
                 "owner": "DroidPlanner",
                 "repo": "Tower",
-                "stars": 634
+                "stars": 634,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -447,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An android ground controller (and other things) for Mavlink/Arduplane",
+                "homepage": null,
                 "id": 7323571,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2018-03-02T17:35:37Z",
+                "open_issues": 135,
                 "owner": "geeksville",
                 "repo": "arduleader",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -463,12 +827,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal web-based ground control station for MAVLink drones. Browser-native, 10 languages, ArduPilot production-tested, no install required.",
+                "homepage": null,
                 "id": 1245578545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T03:44:43Z",
+                "open_issues": 10,
                 "owner": "L-X-Yao",
                 "repo": "argus",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ardupilot",
+                  "drone",
+                  "fastapi",
+                  "flight-controller",
+                  "gcs",
+                  "ground-control-station",
+                  "mavlink",
+                  "pwa",
+                  "svelte",
+                  "uav",
+                  "webserial"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -492,12 +873,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source FPV Drone Frame",
+                "homepage": null,
                 "id": 134260017,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-17T04:37:09Z",
+                "open_issues": 25,
                 "owner": "tbs-trappy",
                 "repo": "source_one",
-                "stars": 632
+                "stars": 632,
+                "topics": [
+                  "carbon-fiber",
+                  "drone",
+                  "fpv",
+                  "freestyle",
+                  "multirotor",
+                  "racing",
+                  "team-blacksheep"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -508,12 +902,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source FPV Racing Frame",
+                "homepage": null,
                 "id": 153084010,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-19T16:27:15Z",
+                "open_issues": 3,
                 "owner": "ps915",
                 "repo": "source_two",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "drones",
+                  "first-person-view",
+                  "fpv",
+                  "frame",
+                  "open-source",
+                  "tbs",
+                  "team-blacksheep"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -524,12 +931,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Giant FPV Racing Drone Frame",
+                "homepage": "https://www.team-blacksheep.com/products/prod:source_x",
                 "id": 181989761,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-06-10T19:05:15Z",
+                "open_issues": 1,
                 "owner": "ps915",
                 "repo": "source_x",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "drone",
+                  "drones",
+                  "fpv",
+                  "horus",
+                  "megadrone",
+                  "xclass"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -540,12 +959,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source FPV Racing Frame",
+                "homepage": null,
                 "id": 276579942,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-07-18T11:14:03Z",
+                "open_issues": 1,
                 "owner": "ps915",
                 "repo": "source_podracer",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "drones",
+                  "first-person-view",
+                  "fpv",
+                  "frame",
+                  "open-source",
+                  "tbs",
+                  "team-blacksheep"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -556,12 +988,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source FPV Micro Drone Frame",
+                "homepage": null,
                 "id": 181988246,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2020-01-07T07:17:10Z",
+                "open_issues": 1,
                 "owner": "ps915",
                 "repo": "source_micro",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "carbon-fibre",
+                  "drone",
+                  "first-person-view",
+                  "fpv",
+                  "frame",
+                  "multirotor"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             },
@@ -572,12 +1016,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source FPV Racing Frame",
+                "homepage": null,
                 "id": 255855886,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-03-19T12:05:05Z",
+                "open_issues": 1,
                 "owner": "ps915",
                 "repo": "source_v",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "drones",
+                  "first-person-view",
+                  "fpv",
+                  "frame",
+                  "open-source",
+                  "tbs",
+                  "team-blacksheep"
+                ]
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
             }
@@ -599,12 +1056,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACM Multimedia2020 University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization :helicopter: annotates 1652 buildings in 72 universities around the world.",
+            "homepage": "https://arxiv.org/abs/2002.12186",
             "id": 219441774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:53:19Z",
+            "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "awesome-list",
+              "cross-view",
+              "cvact",
+              "cvusa",
+              "dataset",
+              "drone",
+              "gem-pooling",
+              "geo-localization",
+              "image-retrieval",
+              "multi-source-benchmark",
+              "place-recognition",
+              "pytorch",
+              "remote-sensing",
+              "satellite",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         },
@@ -615,12 +1093,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACM Multimedia2020 University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization :helicopter: annotates 1652 buildings in 72 universities around the world.",
+            "homepage": "https://arxiv.org/abs/2002.12186",
             "id": 219441774,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:53:19Z",
+            "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 672
+            "stars": 672,
+            "topics": [
+              "awesome-list",
+              "cross-view",
+              "cvact",
+              "cvusa",
+              "dataset",
+              "drone",
+              "gem-pooling",
+              "geo-localization",
+              "image-retrieval",
+              "multi-source-benchmark",
+              "place-recognition",
+              "pytorch",
+              "remote-sensing",
+              "satellite",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T04:59:02.825Z"
         }
@@ -629,15 +1128,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:45.420Z",
+    "last_updated": "2026-08-29T04:38:55.372Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Awesome Drones resources",
+      "homepage": null,
       "id": 120960785,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-17T06:44:02Z",
+      "open_issues": 7,
       "owner": "janesmae",
       "repo": "awesome-drones",
-      "stars": 636
+      "stars": 636,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "drone",
+        "drones",
+        "uav"
+      ]
     },
     "original_repository_sha": "d469bc5f85ca815f1f50d71daeb1b6e6b3ae8c5f",
     "enhanced_repository": "enhansome/enhansome-drones",
