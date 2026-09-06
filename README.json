@@ -95,7 +95,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18451,
+                "stars": 18456,
                 "topics": [
                   "ai",
                   "airsim",
@@ -166,10 +166,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-05T18:41:27Z",
-                "open_issues": 3176,
+                "open_issues": 3180,
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15811,
+                "stars": 15815,
                 "topics": [
                   "arducopter",
                   "ardupilot",
@@ -207,11 +207,11 @@
                 "id": 5298790,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T20:26:28Z",
-                "open_issues": 351,
+                "last_commit": "2026-09-06T22:20:17Z",
+                "open_issues": 354,
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12552,
+                "stars": 12560,
                 "topics": [
                   "autonomous",
                   "autopilot",
@@ -248,11 +248,11 @@
                 "id": 37060852,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T21:28:51Z",
-                "open_issues": 361,
+                "last_commit": "2026-09-06T08:53:51Z",
+                "open_issues": 357,
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11499,
+                "stars": 11501,
                 "topics": [
                   "betaflight",
                   "cleanflight",
@@ -274,11 +274,11 @@
                 "id": 32148604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T20:51:04Z",
-                "open_issues": 421,
+                "last_commit": "2026-09-06T16:21:41Z",
+                "open_issues": 419,
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4207,
+                "stars": 4208,
                 "topics": [
                   "airplane",
                   "autopilot",
@@ -356,7 +356,7 @@
                 "open_issues": 23,
                 "owner": "multiwii",
                 "repo": "baseflight",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -611,7 +611,7 @@
                 "open_issues": 411,
                 "owner": "mavlink",
                 "repo": "mavros",
-                "stars": 1218,
+                "stars": 1219,
                 "topics": [
                   "mavlink",
                   "mavros",
@@ -759,11 +759,11 @@
                 "id": 2567844,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T21:15:11Z",
-                "open_issues": 1018,
+                "last_commit": "2026-09-06T21:47:50Z",
+                "open_issues": 1019,
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4897,
+                "stars": 4898,
                 "topics": [
                   "ardupilot",
                   "drone",
@@ -968,7 +968,7 @@
                 "open_issues": 1,
                 "owner": "ps915",
                 "repo": "source_podracer",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "drones",
                   "first-person-view",
@@ -1065,7 +1065,7 @@
             "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -1102,7 +1102,7 @@
             "open_issues": 34,
             "owner": "layumi",
             "repo": "University1652-Baseline",
-            "stars": 676,
+            "stars": 677,
             "topics": [
               "awesome-list",
               "cross-view",
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:23:59.997Z",
+    "last_updated": "2026-09-06T22:29:12.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Drones resources",
