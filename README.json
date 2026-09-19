@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-17T20:43:48Z",
-            "open_issues": 1374,
+            "open_issues": 1377,
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "ardupilot",
               "autonomous",
@@ -57,7 +57,7 @@
             "open_issues": 1,
             "owner": "chugzb",
             "repo": "betaflight-pid-autotuning",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "autotune",
               "betaflight",
@@ -95,7 +95,7 @@
                 "open_issues": 780,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18494,
+                "stars": 18499,
                 "topics": [
                   "ai",
                   "airsim",
@@ -165,11 +165,11 @@
                 "id": 7512484,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T01:23:30Z",
-                "open_issues": 3201,
+                "last_commit": "2026-09-19T10:36:04Z",
+                "open_issues": 3204,
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15887,
+                "stars": 15895,
                 "topics": [
                   "arducopter",
                   "ardupilot",
@@ -207,11 +207,11 @@
                 "id": 5298790,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-18T16:14:26Z",
-                "open_issues": 411,
+                "last_commit": "2026-09-19T13:12:15Z",
+                "open_issues": 409,
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12654,
+                "stars": 12657,
                 "topics": [
                   "autonomous",
                   "autopilot",
@@ -252,7 +252,7 @@
                 "open_issues": 354,
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11552,
+                "stars": 11555,
                 "topics": [
                   "betaflight",
                   "cleanflight",
@@ -274,7 +274,7 @@
                 "id": 32148604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T21:43:19Z",
+                "last_commit": "2026-09-19T17:46:17Z",
                 "open_issues": 475,
                 "owner": "iNavFlight",
                 "repo": "inav",
@@ -374,7 +374,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-18T15:11:07Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "emuflight",
                 "repo": "EmuFlight",
                 "stars": 505,
@@ -590,7 +590,7 @@
                 "open_issues": 121,
                 "owner": "mavlink",
                 "repo": "mavlink",
-                "stars": 2431,
+                "stars": 2430,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -611,7 +611,7 @@
                 "open_issues": 406,
                 "owner": "mavlink",
                 "repo": "mavros",
-                "stars": 1223,
+                "stars": 1224,
                 "topics": [
                   "mavlink",
                   "mavros",
@@ -759,11 +759,11 @@
                 "id": 2567844,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:27:30Z",
-                "open_issues": 1049,
+                "last_commit": "2026-09-19T18:31:00Z",
+                "open_issues": 1050,
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4952,
+                "stars": 4954,
                 "topics": [
                   "ardupilot",
                   "drone",
@@ -882,7 +882,7 @@
                 "open_issues": 25,
                 "owner": "tbs-trappy",
                 "repo": "source_one",
-                "stars": 640,
+                "stars": 642,
                 "topics": [
                   "carbon-fiber",
                   "drone",
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:53:20.578Z",
+    "last_updated": "2026-09-19T22:32:26.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Drones resources",
