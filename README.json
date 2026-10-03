@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T21:24:00Z",
-            "open_issues": 1378,
+            "open_issues": 1379,
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
             "stars": 2383,
@@ -95,7 +95,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18532,
+                "stars": 18531,
                 "topics": [
                   "ai",
                   "airsim",
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "Ardupilot",
-              "description": null,
+              "description": "ArduPilot/ardupilot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,10 +166,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T21:41:38Z",
-                "open_issues": 3245,
+                "open_issues": 3246,
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 15974,
+                "stars": 15975,
                 "topics": [
                   "arducopter",
                   "ardupilot",
@@ -207,8 +207,8 @@
                 "id": 5298790,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T23:37:39Z",
-                "open_issues": 399,
+                "last_commit": "2026-10-03T03:10:59Z",
+                "open_issues": 401,
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
                 "stars": 12730,
@@ -249,10 +249,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T06:24:04Z",
-                "open_issues": 156,
+                "open_issues": 155,
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11603,
+                "stars": 11605,
                 "topics": [
                   "betaflight",
                   "cleanflight",
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "INAV",
-              "description": null,
+              "description": "iNavFlight/inav",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,11 +274,11 @@
                 "id": 32148604,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:53:18Z",
-                "open_issues": 454,
+                "last_commit": "2026-10-03T03:38:52Z",
+                "open_issues": 451,
                 "owner": "iNavFlight",
                 "repo": "inav",
-                "stars": 4240,
+                "stars": 4241,
                 "topics": [
                   "airplane",
                   "autopilot",
@@ -763,7 +763,7 @@
                 "open_issues": 1060,
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 4995,
+                "stars": 4996,
                 "topics": [
                   "ardupilot",
                   "drone",
@@ -1052,7 +1052,7 @@
         {
           "node_type": "item",
           "title": "Drone-Satellite-Ground Three Platiform Localization",
-          "description": null,
+          "description": "layumi/University1652-Baseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,7 +1089,7 @@
         {
           "node_type": "item",
           "title": "Visual Localization Leaderboard",
-          "description": null,
+          "description": "layumi/University1652-Baseline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:02:24.065Z",
+    "last_updated": "2026-10-03T04:40:51.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Drones resources",
