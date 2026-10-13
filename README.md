@@ -1,6 +1,6 @@
 # Awesome Drones with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,201 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,654 | 🐛 105 | 📅 2026-09-02
 
 This is a list of various resources related to drones, UAV's and quadcopters. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -51,7 +51,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ## Software and Libraries
 
-* [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner) ⭐ 2,394 | 🐛 1,379 | 🌐 C# | 📅 2026-10-12 - Mission planner software.
+* [ArduPilot Mission Planner](https://github.com/ArduPilot/MissionPlanner) ⭐ 2,396 | 🐛 1,379 | 🌐 C# | 📅 2026-10-12 - Mission planner software.
 * [FPVTune](https://github.com/chugzb/betaflight-pid-autotuning) ⭐ 7 | 🐛 1 | 📅 2026-02-16 - Betaflight blackbox log analysis and PID tuning guidance.
 * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Software suite for UAVs, including ground control and autopilot.
 * [QGroundControl](http://qgroundcontrol.com/) - Ground Control Station for PX4 and ArduPilot based UAVs.
@@ -59,7 +59,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Simulators
 
-* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,552 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - Open source simulator based on Unreal Engine for autonomous vehicles.
+* [AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,555 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - Open source simulator based on Unreal Engine for autonomous vehicles.
 * [Drone Racing Arcade](https://thedroneracingleague.com/arcade/) - Mobile based FPV racing game
 * [DRL Drone Racing Simulator](https://thedroneracingleague.com/drlsim/) - FPV Racing game and simulator with official DRL tracks.
 * [FPV Air 2](https://store.steampowered.com/app/889040/FPV_Air_2/) - :dollar: - Basic FPV simulator, runs on slower hardware. Available on Steam.
@@ -78,14 +78,14 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Firmware for Flight Controllers
 
-* [Ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 16,043 | 🐛 3,278 | 🌐 C++ | 📅 2026-10-13
-* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,783 | 🐛 436 | 🌐 C++ | 📅 2026-10-12 - Rebranded to AutoPilot from Firmware
-* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,647 | 🐛 162 | 🌐 C | 📅 2026-10-12 - Fork of Cleanflight.
-* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,263 | 🐛 454 | 🌐 C | 📅 2026-10-11
+* [Ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 16,055 | 🐛 3,284 | 🌐 C++ | 📅 2026-10-13
+* [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) ⭐ 12,788 | 🐛 439 | 🌐 C++ | 📅 2026-10-13 - Rebranded to AutoPilot from Firmware
+* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,655 | 🐛 165 | 🌐 C | 📅 2026-10-13 - Fork of Cleanflight.
+* [INAV](https://github.com/iNavFlight/inav) ⭐ 4,264 | 🐛 457 | 🌐 C | 📅 2026-10-13
 * [Cleanflight](https://github.com/cleanflight/cleanflight) ⭐ 2,739 | 🐛 3 | 🌐 C | 📅 2023-10-20 - :ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.
 * [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) ⭐ 543 | 🐛 20 | 🌐 Python | 📅 2026-09-15 - Nasa JPL command firmware for the OSR.
 * [BaseFlight](https://github.com/multiwii/baseflight) ⭐ 530 | 🐛 23 | 🌐 C | 📅 2016-01-18 - :ghost:
-* [EmuFlight](https://github.com/emuflight/EmuFlight) ⭐ 506 | 🐛 71 | 🌐 C | 📅 2026-10-12 - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
+* [EmuFlight](https://github.com/emuflight/EmuFlight) ⭐ 506 | 🐛 71 | 🌐 C | 📅 2026-10-13 - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
 * [madflight](https://github.com/qqqlab/madflight) ⭐ 501 | 🐛 2 | 🌐 C | 📅 2026-09-03 - Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.
 * [LibrePilot](https://github.com/librepilot/LibrePilot) ⭐ 358 | 🐛 18 | 🌐 C | 📅 2023-12-14 - :ghost: (GitHub fork is Outdated/Inactive)
 * [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) ⭐ 125 | 🐛 10 | 🌐 C | 📅 2021-08-12 - :ghost: Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features
@@ -98,9 +98,9 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 ### Libraries
 
 * [GoBot](https://github.com/hybridgroup/gobot) ⭐ 9,477 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).
-* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,456 | 🐛 120 | 🌐 Python | 📅 2026-10-12 - Micro Air Vehicle Message Marshalling Library.
-* [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,236 | 🐛 370 | 🌐 C++ | 📅 2026-10-09 - MAVLink to ROS gateway with a proxy for Ground Control Station.
-* [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) ⭐ 993 | 🐛 77 | 🌐 C++ | 📅 2024-02-28 - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
+* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,457 | 🐛 121 | 🌐 Python | 📅 2026-10-12 - Micro Air Vehicle Message Marshalling Library.
+* [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,237 | 🐛 367 | 🌐 C++ | 📅 2026-10-09 - MAVLink to ROS gateway with a proxy for Ground Control Station.
+* [DJI Onboard SDK](https://github.com/dji-sdk/Onboard-SDK) ⭐ 994 | 🐛 77 | 🌐 C++ | 📅 2024-02-28 - The Onboard SDK allows you to connect to a supported DJI flight controller using a serial port (TTL UART).
 * [Libcyphal](https://github.com/OpenCyphal-Garage/libcyphal) ⭐ 330 | 🐛 21 | 🌐 C++ | 📅 2025-12-17 - Portable reference implementation of the Cyphal protocol stack in C++ for embedded systems and Linux. Formerly known as LibUAVCAN.
 
 ### Log Analysis
@@ -109,7 +109,7 @@ This is a list of various resources related to drones, UAV's and quadcopters. It
 
 ### Ground Control Stations
 
-* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 5,019 | 🐛 481 | 🌐 C++ | 📅 2026-10-13 - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
+* [QGroundControl](https://github.com/mavlink/qgroundcontrol) ⭐ 5,021 | 🐛 483 | 🌐 C++ | 📅 2026-10-13 - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
 * [Tower](https://github.com/DroidPlanner/Tower) ⭐ 632 | 🐛 152 | 🌐 Java | 📅 2022-02-19 - :ghost: Ground Control Station for Android Devices.
 * [Arduleader](https://github.com/geeksville/arduleader) ⭐ 142 | 🐛 135 | 🌐 Scala | 📅 2018-03-02 - :ghost: An android ground controller (and other things) for Mavlink/Arduplane.
 * [Argus](https://github.com/L-X-Yao/argus) ⭐ 0 | 🐛 10 | 🌐 Python | 📅 2026-08-01 - Open-source web-based ground control station for MAVLink drones. Runs in any browser with WebSerial direct USB support. ArduPilot production-tested, 10 languages.
@@ -242,7 +242,7 @@ List:
 
 #### Autonomous Ground Vehicles
 
-* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,706 | 🐛 17 | 🌐 HTML | 📅 2026-09-03 - Nasa JPL scaled down version of the curiosity rover, made of COTS.
+* [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,708 | 🐛 17 | 🌐 HTML | 📅 2026-09-03 - Nasa JPL scaled down version of the curiosity rover, made of COTS.
 * [Turtlebot](https://www.turtlebot.com) - Open sourced UGV, [ROS](http://www.ros.org/) standard platform.
 
 ### Unmanned Underwater Vehicles
