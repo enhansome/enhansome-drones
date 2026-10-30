@@ -19,7 +19,7 @@
             "open_issues": 1377,
             "owner": "ArduPilot",
             "repo": "MissionPlanner",
-            "stars": 2410,
+            "stars": 2411,
             "topics": [
               "ardupilot",
               "autonomous",
@@ -165,11 +165,11 @@
                 "id": 7512484,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T13:46:28Z",
-                "open_issues": 3363,
+                "last_commit": "2026-10-29T23:30:18Z",
+                "open_issues": 3366,
                 "owner": "ArduPilot",
                 "repo": "ardupilot",
-                "stars": 16258,
+                "stars": 16264,
                 "topics": [
                   "arducopter",
                   "ardupilot",
@@ -207,11 +207,11 @@
                 "id": 5298790,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-28T23:24:31Z",
-                "open_issues": 475,
+                "last_commit": "2026-10-30T00:25:52Z",
+                "open_issues": 466,
                 "owner": "PX4",
                 "repo": "PX4-Autopilot",
-                "stars": 12927,
+                "stars": 12937,
                 "topics": [
                   "autonomous",
                   "autopilot",
@@ -248,11 +248,11 @@
                 "id": 37060852,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T13:13:08Z",
-                "open_issues": 195,
+                "last_commit": "2026-10-29T20:46:39Z",
+                "open_issues": 190,
                 "owner": "betaflight",
                 "repo": "betaflight",
-                "stars": 11716,
+                "stars": 11720,
                 "topics": [
                   "betaflight",
                   "cleanflight",
@@ -275,7 +275,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-28T23:39:32Z",
-                "open_issues": 468,
+                "open_issues": 469,
                 "owner": "iNavFlight",
                 "repo": "inav",
                 "stars": 4279,
@@ -335,7 +335,7 @@
                 "open_issues": 22,
                 "owner": "nasa-jpl",
                 "repo": "osr-rover-code",
-                "stars": 544,
+                "stars": 545,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -373,8 +373,8 @@
                 "id": 427408681,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-27T18:56:26Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-29T10:09:18Z",
+                "open_issues": 3,
                 "owner": "qqqlab",
                 "repo": "madflight",
                 "stars": 510,
@@ -412,8 +412,8 @@
                 "id": 197006581,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T21:05:37Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-29T15:13:41Z",
+                "open_issues": 63,
                 "owner": "emuflight",
                 "repo": "EmuFlight",
                 "stars": 507,
@@ -478,7 +478,7 @@
                 "open_issues": 10,
                 "owner": "NotFastEnuf",
                 "repo": "NFE_Silverware",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -520,7 +520,7 @@
                 "open_issues": 9,
                 "owner": "silver13",
                 "repo": "BoldClash-BWHOOP-B-03",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -548,7 +548,7 @@
                 "open_issues": 100,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9484,
+                "stars": 9485,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -590,7 +590,7 @@
                 "open_issues": 130,
                 "owner": "mavlink",
                 "repo": "mavlink",
-                "stars": 2468,
+                "stars": 2467,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:59:02.825Z"
@@ -608,10 +608,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-24T10:33:35Z",
-                "open_issues": 228,
+                "open_issues": 220,
                 "owner": "mavlink",
                 "repo": "mavros",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": [
                   "mavlink",
                   "mavros",
@@ -759,11 +759,11 @@
                 "id": 2567844,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T21:28:35Z",
-                "open_issues": 480,
+                "last_commit": "2026-10-29T21:20:32Z",
+                "open_issues": 476,
                 "owner": "mavlink",
                 "repo": "qgroundcontrol",
-                "stars": 5075,
+                "stars": 5076,
                 "topics": [
                   "ardupilot",
                   "drone",
@@ -1128,7 +1128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:28:40.565Z",
+    "last_updated": "2026-10-30T00:28:40.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Drones resources",
